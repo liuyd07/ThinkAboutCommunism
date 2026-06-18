@@ -1,0 +1,19 @@
+# British Economic Growth, 1270–1870 / Output Growth and the British Industrial Revolution
+- **作者**：Broadberry, Stephen, Bruce Campbell, Alexander Klein, Mark Overton & Bas van Leeuwen (2015); Crafts, N.F.R. & C.K. Harley (1992)
+- **出处**：British Economic Growth, 1270–1870, Cambridge University Press (2015); Economic History Review (1992)
+- **年份**：1992 / 2015
+- **核心数据**：
+  - 英国人均GDP年增长率（Broadberry et al. 2015 重建的年度序列）：
+    - 1086–1700: ~0.13% 年
+    - 1700–1870: ~0.48% 年（涵盖工业革命）
+    - 其中 1780–1801 年增速显著加速，1801–1830 有所放缓，1830年后再次加速
+  - 1700年之前的人均GDP增长几乎为零（Malthusian 陷阱）
+  - 工业革命期间人均产出年增长从未超过 1%（直到 19世纪30年代后才达到）
+- **与命题的关联**：正面论证所需经验证据。英国工业革命数据展示了生产正循环的启动过程：
+  - 前工业时代（无正循环）：零增长
+  - 工业革命初期（正循环启动）：人均GDP缓慢加速
+  - 工业化成熟期（正循环自我强化）：持续增长
+- **关键论文**：
+  - Crafts, N.F.R. & C.K. Harley (1992) "Output Growth and the British Industrial Revolution: A Restatement of the Crafts-Harley View", Economic History Review, 45(4):703-730.
+  - Broadberry et al. (2015) British Economic Growth, 1270–1870, Cambridge University Press.
+  - Bouscasse, Nakamura & Steinsson (2021) "When Did Growth Begin?" NBER WP 28623 — 使用贝叶斯方法估计英国生产率从1600年开始增长。
